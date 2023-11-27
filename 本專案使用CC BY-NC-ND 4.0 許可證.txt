@@ -24,3 +24,4 @@ No warranties are given. The license may not give you all of the permissions nec
 
 不作任何保證。該許可證可能不會授予您預期用途所需的所有許可權。例如，其他權利（如公開權、隱私權或精神權利）可能會限制您使用材料的方式。
 宣告檔:LICENSE.md
+這邊只會作為 可公開的程式碼發布
