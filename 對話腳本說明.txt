@@ -1,0 +1,51 @@
+
+這邊的範例 boolconfig用來控制 重要事件的 這區域你不需要動他 這是用來控制的
+{
+    "importantEvents": {
+      "NPC1": true,
+      "NPC2": false,
+      "NPC3": true
+    }
+  }
+接下來統一解釋 NPC對話的 編寫與過程
+範例:
+    "NPCName": "NPC1",
+    "hasImportantEvent": true,
+    "importantDialogues": [
+      {
+        "id": 1,
+        "text": "NPC1 的重要對話 1",
+        "isPlayerDialogue": false,
+        "speaker": "ACharacter"
+      },
+      {
+        "id": 2,
+        "text": "NPC1 的重要對話 2",
+        "isPlayerDialogue": false,
+        "speaker": "ACharacter"
+      }
+    ],
+    "normalDialogues": [
+      {
+        "id": 1,
+        "text": "NPC1 的普通對話 1",
+        "isPlayerDialogue": false,
+        "speaker": "ACharacter"
+      },
+      {
+        "id": 2,
+        "text": "NPC1 的普通對話 2",
+        "isPlayerDialogue": false,
+        "speaker": "ACharacter"
+      }
+    ]
+"NPCName" 指的是說你的角色名稱
+"hasImportantEvent": true 這邊是用來告訴程式碼 我這句對話有 重要對話//主線 如果是false 你就不需要加 importantDialogues 資料庫了
+"importantDialogues": [     ]完整代碼為這樣 代表一個庫 如果要連接下個庫 請加上, 後 在連上"normalDialogues": [     ]
+庫裡面的資料填寫:
+      {
+        "id": 1, = 玩家點擊後 會增加1 所以變成2就會載入下一段
+        "text": "NPC1 的重要對話 1", 用來儲存你要寫的庫是文本
+        "isPlayerDialogue": false, 這個是不是玩家的對話 如果是 請將他true 他 這是玩家特效
+        "speaker": "ACharacter" 這串是在寫說 你這段是哪個NPC在說話 如果有要特製些啥可以在編寫程式修改增加 像A村名 說 嘿! A村名顯示圖片 圖片抖動 接下來 B村名回復 嗨! 程式執行:關閉A村名圖片 停止抖動 B村名 圖片顯示 B村名抖動
+      }, 請注意,是否有加 id test isPlayerDialogue 都要加, 除了 最後一個不用加 連接處也要加上,

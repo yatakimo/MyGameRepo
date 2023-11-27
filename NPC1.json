@@ -1,0 +1,33 @@
+{
+    "NPCName": "NPC1",
+    "hasImportantEvent": true,
+    "importantDialogues": [
+      {
+        "id": 1,
+        "text": "NPC1 的重要對話 1",
+        "isPlayerDialogue": false,
+        "speaker": "ACharacter"
+      },
+      {
+        "id": 2,
+        "text": "NPC1 的重要對話 2",
+        "isPlayerDialogue": false,
+        "speaker": "ACharacter"
+      }
+    ],
+    "normalDialogues": [
+      {
+        "id": 1,
+        "text": "NPC1 的普通對話 1",
+        "isPlayerDialogue": false,
+        "speaker": "ACharacter"
+      },
+      {
+        "id": 2,
+        "text": "NPC1 的普通對話 2",
+        "isPlayerDialogue": false,
+        "speaker": "ACharacter"
+      }
+    ]
+  }
+  

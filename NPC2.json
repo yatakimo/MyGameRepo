@@ -1,0 +1,21 @@
+{
+    "NPCName": "NPC2",
+    "hasImportantEvent": false,
+    "importantDialogues": [
+    ],
+    "normalDialogues": [
+      {
+        "id": 1,
+        "text": "NPC2 的普通對話 1",
+        "isPlayerDialogue": false,
+        "speaker": "BCharacter"
+      },
+      {
+        "id": 2,
+        "text": "NPC2 的普通對話 2",
+        "isPlayerDialogue": false,
+        "speaker": "BCharacter"
+      }
+    ]
+  }
+  

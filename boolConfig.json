@@ -1,0 +1,8 @@
+{
+    "importantEvents": {
+      "NPC1": true,
+      "NPC2": false,
+      "NPC3": true
+    }
+  }
+  

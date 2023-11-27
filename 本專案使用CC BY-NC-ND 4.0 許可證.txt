@@ -1,0 +1,26 @@
+You are free to:
+Share — copy and redistribute the material in any medium or format
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+Under the following terms:
+Attribution - You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+NonCommercial - You may not use the material for commercial purposes .
+NoDerivatives - If you remix, transform, or build upon the material, you may not distribute the modified material.
+No additional restrictions - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+Notices:
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation .
+
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+您可以自由地：
+共用 — 以任何媒體或格式複製和重新分發材料
+只要您遵守許可條款，許可方就不能撤銷這些自由。
+根據以下條款：
+署名 - 您必須提供適當的信用 ，提供許可證的連結，並 指明是否進行了變更 。您可以以任何合理的方式這樣做，但不得以任何方式暗示許可方認可您或您的使用。
+非商業性 - 您不得將材料用於商業目的 。
+禁止演繹 - 如果您重新混合、轉換或構建材料，則不得分發修改後的材料。
+無額外限制 - 您不得應用法律條款或技術措施，在法律上限制他人執行許可證允許的任何操作。
+通知：
+您不必遵守公共領域中材料元素的許可，也不必遵守適用的例外或限制 允許您使用的材料。
+
+不作任何保證。該許可證可能不會授予您預期用途所需的所有許可權。例如，其他權利（如公開權、隱私權或精神權利）可能會限制您使用材料的方式。
+宣告檔:LICENSE.md
