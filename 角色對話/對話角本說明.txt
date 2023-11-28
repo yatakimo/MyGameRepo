@@ -7,7 +7,7 @@
       "NPC3": true
     }
   }
-接下來統一解釋 NPC對話的 編寫與過程
+接下來統一解釋 NPC對話的 編寫與過程在這個差個話 這先對內容因要每個NPC為一串來製作 你因該已經注意到我的NPC檔案有三個 NPC1~NPC3 他每一個代表一個NPC 用來給系統直接收索 所以如果增加NPC 檔名應改名為:NPC(名稱)+json 
 範例:
     "NPCName": "NPC1",
     "hasImportantEvent": true,
