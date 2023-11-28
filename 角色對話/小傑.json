@@ -4,29 +4,29 @@
     "importantDialogues": [
       {
         "id": 1,
-        "text": "NPC1 的重要對話 1",
+        "text": "小傑對你說你好",
         "isPlayerDialogue": false,
-        "speaker": "ACharacter"
+        "speaker": "小傑"
       },
       {
         "id": 2,
-        "text": "NPC1 的重要對話 2",
-        "isPlayerDialogue": false,
-        "speaker": "ACharacter"
+        "text": "來自玩家的心聲:真的不好",
+        "isPlayerDialogue": true,
+        "speaker": "Player"
       }
     ],
     "normalDialogues": [
       {
         "id": 1,
-        "text": "NPC1 的普通對話 1",
+        "text": "歡迎來到小傑的商店",
         "isPlayerDialogue": false,
-        "speaker": "ACharacter"
+        "speaker": "小傑"
       },
       {
         "id": 2,
-        "text": "NPC1 的普通對話 2",
+        "text": "你有要買些什麼嗎?",
         "isPlayerDialogue": false,
-        "speaker": "ACharacter"
+        "speaker": "小傑"
       }
     ]
   }
